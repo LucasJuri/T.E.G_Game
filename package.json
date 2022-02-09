@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LucasJuri/T.E.G_Game/issues"
   },
-  "homepage": "https://github.com/LucasJuri/T.E.G_Game#readme"
+  "homepage": "https://github.com/LucasJuri/T.E.G_Game#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
